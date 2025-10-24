@@ -1,5 +1,5 @@
 ### EX8 Web Scraping On E-commerce platform using BeautifulSoup
-### DATE: 17/10/2025
+### DATE: 24/10/2025
 ### AIM: To perform Web Scraping on Snapdeal using (beautifulsoup) Python.
 ### Description: 
 <div align = "justify">
